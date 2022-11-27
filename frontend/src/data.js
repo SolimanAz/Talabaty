@@ -1,0 +1,53 @@
+const data = {
+  products: [
+    {
+      name: 'Digital Art',
+      slug: 'digital-art',
+      category: 'Digital Products',
+      Image: '/images/p1.png', // 679px × 829px
+      price: 9.99,
+      countInStock: 15,
+      brand: 'Talabaty',
+      rating: 4.5,
+      numReviews: 10,
+      description: 'digital art using photoshop',
+    },
+    {
+      name: 'Digital Art Happy',
+      slug: 'digital-art-happy',
+      category: 'Digital Products',
+      Image: '/images/p2.png',
+      price: 11.99,
+      countInStock: 10,
+      brand: 'Talabaty',
+      rating: 4.0,
+      numReviews: 14,
+      description: 'digital art using photoshop',
+    },
+    {
+      name: 'Digital Art Ninja',
+      slug: 'digital-art-ninja',
+      category: 'Digital Products',
+      Image: '/images/p3.png',
+      price: 7.99,
+      countInStock: 15,
+      brand: 'Talabaty',
+      rating: 3.5,
+      numReviews: 18,
+      description: 'digital art using photoshop',
+    },
+    {
+      name: 'Digital Art Officer',
+      slug: 'digital-art-officer',
+      category: 'Digital Products',
+      Image: '/images/p4.png',
+      price: 5.99,
+      countInStock: 43,
+      brand: 'Talabaty',
+      rating: 5,
+      numReviews: 7,
+      description: 'digital art using photoshop',
+    },
+  ],
+};
+export default data;
